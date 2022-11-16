@@ -17,7 +17,6 @@ export default function Home() {
         <div>
           <Link href="/tupc">TUPC Page</Link>
         </div>
-        <a href="/tupc">Normal TUPC Page</a>
       </main>
     </div>
   );
