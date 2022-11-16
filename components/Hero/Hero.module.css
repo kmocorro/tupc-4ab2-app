@@ -1,0 +1,21 @@
+.container {
+  margin: 36px 36px 80px 36px;
+}
+
+.container > h1 {
+  max-width: 700px;
+  font-size: 96px;
+  margin-bottom: 0;
+  line-height: 1;
+}
+
+.container > h3 {
+  margin-top: 12px;
+  margin-bottom: 0px;
+  font-size: 48px;
+}
+
+.container > p {
+  font-size: 24px;
+  margin-top: 12px;
+}
